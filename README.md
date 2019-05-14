@@ -1,6 +1,6 @@
 # Oro / ***bypass*** Update Fixed
 
-This is a very simple GameGuard bypass for RumbleFighter, an action fighting MMO. It was written in C++ using C++ 11 conventions and the win32 api.
+This is a very simple GameGuard bypass for RumbleFighter, an action fighting MMO. It was written in C++ using C++ 11 conventions and the win32 api. Fixed by M0nster
 
 ## About
 
